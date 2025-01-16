@@ -12,10 +12,10 @@ Estudante de Sistemas de Informação no Centro Universitário das Faculdades Me
      src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
     <!--ícone github-->
     <img align="center" alt=" " height="30" width="40" 
-     src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png">
+     src=" https://cdn-1.webcatalog.io/catalog/github/github-icon-filled-256.webp?v=1736149691825">
     <!--ícone construct-->
     <img align="center" alt=" " height="30" width="40" 
-     src="https://seeklogo.com/images/C/construct-logo-DF244B4ECA-seeklogo.com.png">
+     src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FConstruct_%2528motor_de_jogo%2529&psig=AOvVaw0vVDkUlDqVixsci_403Gpi&ust=1737124868141000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNikrce8-ooDFQAAAAAdAAAAABAE">
 </div>
   
 #  
