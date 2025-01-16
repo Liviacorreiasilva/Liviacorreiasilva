@@ -31,7 +31,7 @@ Estudante de Sistemas de Informação no Centro Universitário das Faculdades Me
     <!--gmail-->
     <a href="https://mail.google.com/liviasilvasilva492@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/liviauninove/liviacorreia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Liviacorreiasilva/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
