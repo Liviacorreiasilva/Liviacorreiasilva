@@ -3,8 +3,7 @@
 Estudante de Sistemas de Informação no Centro Universitário das Faculdades Metropolitanas Unidas em São Paulo, após realizar um curso Técnico em Desenvolvimento de Jogos na Etec com a duração de 6 meses, no qual tive o primeiro contato com a área da tecnologia. Desde então venho me empenhando nos estudos a fim de me tornar uma profissional em Desenvolvimento de softwares.
 
 <br>
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liviacorreiasilva&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-</div>    
+<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liviacorreiasilva&layout=compact&langs_count=7&theme=dracula&bg_color=000000&hide_border=true&cache_seconds=1800"/>
 <!--foto ícones das linguagens-->
 <div style="display: inline_block"><br>    
     <!--ícone vscode-->
