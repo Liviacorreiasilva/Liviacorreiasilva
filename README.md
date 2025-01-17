@@ -1,4 +1,4 @@
- <H1 style="color:pink">LIVIA CORREIA DA SILVA</H1>
+ <H1 style="color:pink">LÍVIA CORREIA DA SILVA </H1>
 
 
 Estudante de Sistemas de Informação no Centro Universitário das Faculdades Metropolitanas Unidas em São Paulo, após realizar um curso Técnico em Desenvolvimento de Jogos na Etec com a duração de 6 meses, no qual tive o primeiro contato com a área da tecnologia. Desde então venho me empenhando nos estudos a fim de me tornar uma profissional em Desenvolvimento de softwares.
