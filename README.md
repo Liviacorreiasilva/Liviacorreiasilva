@@ -5,9 +5,10 @@ Estudante de Sistemas de Informação no Centro Universitário das Faculdades Me
 <br>
 
 <br>
+
 <div align="center">
-    <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liviacorreiasilva&layout=compact&langs_count=7&theme=radical&bg_color=000000&hide_border=true&cache_seconds=1800"/>
-</div>  
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liviacorreiasilva&layout=compact&langs_count=7&theme=dracula&bg_color=000000&hide_border=true&cache_seconds=1800"/>
+</div>
 
 <!--foto ícones das linguagens-->
 <div align="center" style="display: inline_block"><br>    
