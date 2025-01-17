@@ -7,8 +7,9 @@ Estudante de Sistemas de Informação no Centro Universitário das Faculdades Me
 <div align="center">
     <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liviacorreiasilva&layout=compact&langs_count=7&theme=dracula&bg_color=000000&hide_border=true&cache_seconds=1800"/>
 </div>
+
 <!--foto ícones das linguagens-->
-<div style="display: inline_block"><br>    
+<div align="center" style="display: inline_block"><br>    
     <!--ícone vscode-->
     <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
@@ -23,7 +24,7 @@ Estudante de Sistemas de Informação no Centro Universitário das Faculdades Me
 
 <br>
  
-<div>
+<div align="center">
     <!--Linkedin-->
     <a href="https://www.linkedin.com/in/livia-correia-da-silva-6485b1231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <!--gmail-->
